@@ -1,8 +1,7 @@
 # ELEC03---Data-Analytics
 
 <div>
-  <a href="https://github.com/JonStephenNavallo/ELEC03---Data-Analytics/blob/main/Activity1/activity1.ipynb" target="_blank"></a>
-  <h1>ACTIVITY 1</h1>
+  <a href="https://github.com/JonStephenNavallo/ELEC03---Data-Analytics/blob/main/Activity1/activity1.ipynb" target="_blank">ACTIVITY 1</a>
 </div>
 <h3>Palmer Penguins: This activity analyze the dataset of Penguins. This includes their species, population, and differences.</h3>
 
