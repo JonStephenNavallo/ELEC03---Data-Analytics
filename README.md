@@ -1,2 +1,4 @@
 # ELEC03---Data-Analytics
-<link>https://github.com/JonStephenNavallo/ELEC03---Data-Analytics/edit/main/README.md</link>
+
+<h1>ACTIVITY 1</h1>
+<h3>This activity analyze the dataset of Penguins. This includes their species, population, differences of each species in different islands</h3>
